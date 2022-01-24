@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+/* toasts */
+.position {
+  position: relative;
+}
+
+.toasts {
+  position: absolute;
+}
+
+.fa-gift {
+  font-size: 22px;
+  color: #3f87f5;
+  margin-left: 20px;
+}
+
+/* card */
+.bg-color {
+  background-color: #3f87f5;
+  padding: 10px 0;
+  border-radius: 20px;
+  margin-top: -30px;
+  padding-bottom: 60px;
+}
+
+.price {
+  color: #231d4f;
+  padding-left: 20px;
+}
+
+.card-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #231d4f;
+}
+
+.btn-card {
+  color: #3f87f5;
+  background-color: rgb(201, 201, 201);
+  border-radius: 25px;
+  padding: 5px 15px;
+}
+
+.btn-hilight {
+  color: #3f87f5;
+  background-color: white;
+  margin-left: 35px;
+  border-radius: 25px;
+  padding: 5px 15px;
+}
+
+.icon {
+  color: #3f87f5;
+}
+
+.icon-3 {
+  color: white;
+}
+
+.h-price {
+  color: white;
+}
+
+/* Hot */
+.hot {
+  color: white;
+  background-color: tomato;
+  position: absolute;
+  border-radius: 10px;
+  padding: 4px 6px;
+  margin-left: 207px;
+  margin-top: -25px;
+}
+
